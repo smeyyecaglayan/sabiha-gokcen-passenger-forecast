@@ -1,0 +1,4 @@
+period,domestic_forecast,international_forecast,total_holt_winters_forecast,bottom_up_total_forecast,direct_minus_bottom_up,direct_vs_bottom_up_pct,comparison_period,domestic_actual_2026,international_actual_2026,total_actual_2026,domestic_growth_vs_2026_pct,international_growth_vs_2026_pct,total_growth_vs_2026_pct
+2027-01,1967114.9,2745995.7,4890139.8,4713110.6,177029.2,3.8,2026-01,1752332.0,2437642.0,4189974.0,12.3,12.6,16.7
+2027-02,1817930.1,2658825.9,4599936.2,4476756.0,123180.2,2.8,2026-02,1551469.0,2174752.0,3726221.0,17.2,22.3,23.4
+2027-03,1877084.1,2707319.5,4794832.2,4584403.6,210428.6,4.6,2026-03,1730706.0,1930874.0,3661580.0,8.5,40.2,30.9

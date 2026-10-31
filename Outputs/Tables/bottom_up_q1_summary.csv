@@ -1,0 +1,2 @@
+model,series,MAE,MAPE,mean_error
+Bottom-up Holt-Winters,Total,275571.0,7.68,-236913.0

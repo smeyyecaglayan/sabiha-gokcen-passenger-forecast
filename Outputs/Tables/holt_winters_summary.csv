@@ -1,0 +1,4 @@
+model,series,MAE,MAPE,mean_error
+Holt-Winters,Domestic,88143.0,5.05,-7021.0
+Holt-Winters,International,214123.0,9.9,-150789.0
+Holt-Winters,Total,274255.0,6.8,-66136.0

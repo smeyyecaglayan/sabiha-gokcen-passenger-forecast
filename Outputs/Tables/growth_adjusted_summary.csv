@@ -1,0 +1,4 @@
+model,series,MAE,MAPE,mean_error
+Growth-adjusted,Domestic,227589.0,13.55,-24337.0
+Growth-adjusted,International,324628.0,14.38,-76358.0
+Growth-adjusted,Total,430099.0,10.52,-84030.0

@@ -1,0 +1,4 @@
+period,domestic_forecast,international_forecast,total_holt_winters_forecast,bottom_up_total_forecast,direct_minus_bottom_up,direct_vs_bottom_up_pct
+2027-01,1967115.0,2745996.0,4890140.0,4713111.0,177029.0,4.0
+2027-02,1817930.0,2658826.0,4599936.0,4476756.0,123180.0,3.0
+2027-03,1877084.0,2707319.0,4794832.0,4584404.0,210429.0,5.0

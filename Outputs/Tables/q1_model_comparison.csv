@@ -1,0 +1,10 @@
+model,series,MAE,MAPE,mean_error
+Holt-Winters,Domestic,87062.0,6.12,-51629.0
+Seasonal Naive,Domestic,188666.0,12.14,120270.0
+Growth-adjusted,Domestic,308281.0,22.1,-78860.0
+Growth-adjusted,International,145941.0,7.26,-124639.0
+Holt-Winters,International,199684.0,9.89,-185283.0
+Seasonal Naive,International,241444.0,11.37,232943.0
+Holt-Winters,Total,221750.0,6.09,-196651.0
+Seasonal Naive,Total,353213.0,9.42,353213.0
+Growth-adjusted,Total,375475.0,11.07,-182372.0
